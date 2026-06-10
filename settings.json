@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Shadowverse-kHjM.aternos.me:11666",
+    "port": 11666,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
